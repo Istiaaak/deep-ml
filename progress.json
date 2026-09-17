@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T19:02:26.404Z",
+  "generated_at": "2026-09-18T19:02:27.979Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -164,6 +164,82 @@
       "last_pushed_at": "2026-09-16T18:27:40.358Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-09-17T11:44:24.699Z",
+      "last_pushed_at": "2026-09-17T11:44:24.699Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2026-09-17T20:11:25.754Z",
+      "last_pushed_at": "2026-09-17T20:11:25.754Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:93": {
+      "kind": "problem",
+      "id": "93",
+      "title": "Calculate Mean Absolute Error (MAE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/93",
+      "path": "problems/0093-calculate-mean-absolute-error-mae",
+      "first_solved_at": "2026-09-17T20:12:34.603Z",
+      "last_pushed_at": "2026-09-17T20:12:34.603Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-09-17T20:15:32.566Z",
+      "last_pushed_at": "2026-09-17T20:15:32.566Z",
+      "language": "python",
+      "lines": 8
+    },
+    "math:104": {
+      "kind": "math",
+      "id": "104",
+      "title": "Training Error, Test Error and the Bayes Rate",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/104",
+      "path": "math/0104-training-error-test-error-and-the-bayes-rate",
+      "first_solved_at": "2026-09-17T20:36:29.543Z",
+      "last_pushed_at": "2026-09-17T20:36:29.543Z"
+    },
+    "lab:18": {
+      "kind": "lab",
+      "id": "18",
+      "title": "Train a Linear Regression Model",
+      "difficulty": "easy",
+      "category": "Regression",
+      "url": "https://www.deep-ml.com/labs/18",
+      "path": "labs/0018-train-a-linear-regression-model",
+      "first_solved_at": "2026-09-17T21:41:00.559Z",
+      "last_pushed_at": "2026-09-17T21:41:00.559Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
