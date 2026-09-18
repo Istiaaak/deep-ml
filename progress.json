@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T19:02:27.979Z",
+  "generated_at": "2026-09-18T19:02:29.909Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -240,6 +240,132 @@
       "last_pushed_at": "2026-09-17T21:41:00.559Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:104": {
+      "kind": "problem",
+      "id": "104",
+      "title": "Binary Classification with Logistic Regression",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/104",
+      "path": "problems/0104-binary-classification-with-logistic-regression",
+      "first_solved_at": "2026-09-18T09:58:45.357Z",
+      "last_pushed_at": "2026-09-18T09:58:45.357Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:106": {
+      "kind": "problem",
+      "id": "106",
+      "title": "Train Logistic Regression with Gradient Descent",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/106",
+      "path": "problems/0106-train-logistic-regression-with-gradient-descent",
+      "first_solved_at": "2026-09-18T11:18:36.114Z",
+      "last_pushed_at": "2026-09-18T11:18:36.114Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-09-18T12:48:00.237Z",
+      "last_pushed_at": "2026-09-18T12:48:00.237Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2026-09-18T12:54:07.168Z",
+      "last_pushed_at": "2026-09-18T12:54:07.168Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:52": {
+      "kind": "problem",
+      "id": "52",
+      "title": "Implement Recall Metric in Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/52",
+      "path": "problems/0052-implement-recall-metric-in-binary-classification",
+      "first_solved_at": "2026-09-18T14:02:48.314Z",
+      "last_pushed_at": "2026-09-18T14:02:48.314Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:61": {
+      "kind": "problem",
+      "id": "61",
+      "title": "Implement F-Score Calculation for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/61",
+      "path": "problems/0061-implement-f-score-calculation-for-binary-classification",
+      "first_solved_at": "2026-09-18T14:32:09.867Z",
+      "last_pushed_at": "2026-09-18T14:32:09.867Z",
+      "language": "python",
+      "lines": 21
+    },
+    "math:17": {
+      "kind": "math",
+      "id": "17",
+      "title": "Covariance and Correlation",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/17",
+      "path": "math/0017-covariance-and-correlation",
+      "first_solved_at": "2026-09-18T14:48:06.583Z",
+      "last_pushed_at": "2026-09-18T14:48:06.583Z"
+    },
+    "math:16": {
+      "kind": "math",
+      "id": "16",
+      "title": "Eigendecomposition and SVD",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/16",
+      "path": "math/0016-eigendecomposition-and-svd",
+      "first_solved_at": "2026-09-18T14:50:08.574Z",
+      "last_pushed_at": "2026-09-18T14:50:08.574Z"
+    },
+    "problem:43": {
+      "kind": "problem",
+      "id": "43",
+      "title": "Implement Ridge Regression Loss Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/43",
+      "path": "problems/0043-implement-ridge-regression-loss-function",
+      "first_solved_at": "2026-09-18T15:06:27.400Z",
+      "last_pushed_at": "2026-09-18T15:06:27.400Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:50": {
+      "kind": "problem",
+      "id": "50",
+      "title": "Implement Lasso Regression using ISTA",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/50",
+      "path": "problems/0050-implement-lasso-regression-using-ista",
+      "first_solved_at": "2026-09-18T18:59:49.639Z",
+      "last_pushed_at": "2026-09-18T18:59:49.639Z",
+      "language": "python",
+      "lines": 53
     }
   }
 }
