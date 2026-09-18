@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T19:02:29.909Z",
+  "generated_at": "2026-09-18T19:02:31.922Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -36,7 +36,7 @@
       "url": "https://www.deep-ml.com/math-problems/7",
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-09-03T12:22:20.768Z",
-      "last_pushed_at": "2026-09-03T12:22:20.768Z"
+      "last_pushed_at": "2026-09-18T19:02:31.921Z"
     },
     "math:8": {
       "kind": "math",
@@ -47,7 +47,7 @@
       "url": "https://www.deep-ml.com/math-problems/8",
       "path": "math/0008-vector-norms-and-linear-independence",
       "first_solved_at": "2026-09-03T12:24:51.207Z",
-      "last_pushed_at": "2026-09-03T12:24:51.207Z"
+      "last_pushed_at": "2026-09-18T19:02:31.921Z"
     },
     "math:30": {
       "kind": "math",
@@ -58,7 +58,7 @@
       "url": "https://www.deep-ml.com/math-problems/30",
       "path": "math/0030-ml-workflow-basics",
       "first_solved_at": "2026-09-03T12:30:41.906Z",
-      "last_pushed_at": "2026-09-03T12:30:41.906Z"
+      "last_pushed_at": "2026-09-18T19:02:31.921Z"
     },
     "problem:5": {
       "kind": "problem",
@@ -95,7 +95,7 @@
       "url": "https://www.deep-ml.com/math-problems/31",
       "path": "math/0031-regularization-and-generalization",
       "first_solved_at": "2026-09-16T15:45:33.010Z",
-      "last_pushed_at": "2026-09-16T15:45:33.010Z"
+      "last_pushed_at": "2026-09-18T19:02:31.921Z"
     },
     "math:1": {
       "kind": "math",
@@ -106,7 +106,7 @@
       "url": "https://www.deep-ml.com/math-problems/1",
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-09-16T15:52:39.251Z",
-      "last_pushed_at": "2026-09-16T15:52:39.251Z"
+      "last_pushed_at": "2026-09-18T19:02:31.921Z"
     },
     "math:5": {
       "kind": "math",
@@ -117,7 +117,7 @@
       "url": "https://www.deep-ml.com/math-problems/5",
       "path": "math/0005-gradient-descent-updates",
       "first_solved_at": "2026-09-16T16:00:10.653Z",
-      "last_pushed_at": "2026-09-16T16:00:10.653Z"
+      "last_pushed_at": "2026-09-18T19:02:31.921Z"
     },
     "math:18": {
       "kind": "math",
@@ -128,7 +128,7 @@
       "url": "https://www.deep-ml.com/math-problems/18",
       "path": "math/0018-descriptive-statistics",
       "first_solved_at": "2026-09-16T16:03:14.102Z",
-      "last_pushed_at": "2026-09-16T16:03:14.102Z"
+      "last_pushed_at": "2026-09-18T19:02:31.921Z"
     },
     "math:33": {
       "kind": "math",
@@ -139,7 +139,7 @@
       "url": "https://www.deep-ml.com/math-problems/33",
       "path": "math/0033-expectation-and-variance-algebra",
       "first_solved_at": "2026-09-16T16:07:28.539Z",
-      "last_pushed_at": "2026-09-16T16:07:28.539Z"
+      "last_pushed_at": "2026-09-18T19:02:31.921Z"
     },
     "math:34": {
       "kind": "math",
@@ -150,7 +150,7 @@
       "url": "https://www.deep-ml.com/math-problems/34",
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-09-16T17:55:56.340Z",
-      "last_pushed_at": "2026-09-16T17:55:56.340Z"
+      "last_pushed_at": "2026-09-18T19:02:31.921Z"
     },
     "problem:16": {
       "kind": "problem",
@@ -226,7 +226,7 @@
       "url": "https://www.deep-ml.com/math-problems/104",
       "path": "math/0104-training-error-test-error-and-the-bayes-rate",
       "first_solved_at": "2026-09-17T20:36:29.543Z",
-      "last_pushed_at": "2026-09-17T20:36:29.543Z"
+      "last_pushed_at": "2026-09-18T19:02:31.921Z"
     },
     "lab:18": {
       "kind": "lab",
@@ -328,7 +328,7 @@
       "url": "https://www.deep-ml.com/math-problems/17",
       "path": "math/0017-covariance-and-correlation",
       "first_solved_at": "2026-09-18T14:48:06.583Z",
-      "last_pushed_at": "2026-09-18T14:48:06.583Z"
+      "last_pushed_at": "2026-09-18T19:02:31.921Z"
     },
     "math:16": {
       "kind": "math",
@@ -339,7 +339,7 @@
       "url": "https://www.deep-ml.com/math-problems/16",
       "path": "math/0016-eigendecomposition-and-svd",
       "first_solved_at": "2026-09-18T14:50:08.574Z",
-      "last_pushed_at": "2026-09-18T14:50:08.574Z"
+      "last_pushed_at": "2026-09-18T19:02:31.921Z"
     },
     "problem:43": {
       "kind": "problem",
