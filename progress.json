@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T10:35:10.025Z",
+  "generated_at": "2026-09-24T11:06:56.150Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -600,6 +600,19 @@
       "last_pushed_at": "2026-09-24T10:35:03.895Z",
       "language": "python",
       "lines": 38
+    },
+    "problem:350": {
+      "kind": "problem",
+      "id": "350",
+      "title": "Calculate Explained Variance Ratio for PCA",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/350",
+      "path": "problems/0350-calculate-explained-variance-ratio-for-pca",
+      "first_solved_at": "2026-09-24T11:06:49.932Z",
+      "last_pushed_at": "2026-09-24T11:06:49.932Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
