@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:11:22.380Z",
+  "generated_at": "2026-09-25T13:37:25.791Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -702,6 +702,17 @@
       "last_pushed_at": "2026-09-25T11:11:21.369Z",
       "language": "python",
       "lines": 19
+    },
+    "math:44": {
+      "kind": "math",
+      "id": "44",
+      "title": "Class Imbalance and Proper Scoring",
+      "difficulty": "easy",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/44",
+      "path": "math/0044-class-imbalance-and-proper-scoring",
+      "first_solved_at": "2026-09-25T13:37:24.328Z",
+      "last_pushed_at": "2026-09-25T13:37:24.328Z"
     }
   }
 }
