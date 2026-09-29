@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**59** solved · 43 problems · 2 labs · 14 math
+**60** solved · 44 problems · 2 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -42,6 +42,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-09-21 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-03 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Explained Variance Ratio for PCA](https://www.deep-ml.com/problems/350) | medium | 2026-09-24 | [solution](problems/0350-calculate-explained-variance-ratio-for-pca) |
+| [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-09-29 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-09-23 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
 | [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-09-25 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-09-20 | [solution](problems/0173-implement-k-nearest-neighbors) |
