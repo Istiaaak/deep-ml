@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**62** solved · 46 problems · 2 labs · 14 math
+**63** solved · 47 problems · 2 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -56,6 +56,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-09-24 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-09-24 | [solution](problems/0353-reconstruction-error-from-pca) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-09-23 | [solution](problems/0020-decision-tree-learning) |
+| [Implement Bagging Classifier from Scratch](https://www.deep-ml.com/problems/307) | hard | 2026-09-30 | [solution](problems/0307-implement-bagging-classifier-from-scratch) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-09-18 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 | [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2026-09-25 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |
 
