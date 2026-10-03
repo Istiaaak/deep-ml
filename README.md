@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**66** solved · 50 problems · 2 labs · 14 math
+**67** solved · 50 problems · 2 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -84,6 +84,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-09-18 | [solution](math/0017-covariance-and-correlation) |
 | [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-09-16 | [solution](math/0034-least-squares-and-the-normal-equations) |
 | [Margins and Soft-Margin SVMs](https://www.deep-ml.com/math-problems/42) | medium | 2026-09-25 | [solution](math/0042-margins-and-soft-margin-svms) |
+| [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-10-03 | [solution](math/0003-neural-network-derivatives) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-09-16 | [solution](math/0031-regularization-and-generalization) |
 | [Training Error, Test Error and the Bayes Rate](https://www.deep-ml.com/math-problems/104) | medium | 2026-09-17 | [solution](math/0104-training-error-test-error-and-the-bayes-rate) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-09-03 | [solution](math/0008-vector-norms-and-linear-independence) |
