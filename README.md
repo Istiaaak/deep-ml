@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**78** solved · 59 problems · 2 labs · 17 math
+**79** solved · 60 problems · 2 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Backprop a Linear Layer by Hand](https://www.deep-ml.com/problems/898) | easy | 2026-10-19 | [solution](problems/0898-backprop-a-linear-layer-by-hand) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-09-18 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Build a Linear Regression Model with nn.Module](https://www.deep-ml.com/problems/885) | easy | 2026-10-20 | [solution](problems/0885-build-a-linear-regression-model-with-nn-module) |
+| [Build an MLP with nn.Sequential](https://www.deep-ml.com/problems/887) | easy | 2026-10-20 | [solution](problems/0887-build-an-mlp-with-nn-sequential) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-09-18 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2026-09-17 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-09-17 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
