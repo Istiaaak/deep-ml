@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:11:58.878Z",
+  "generated_at": "2026-10-20T18:14:23.513Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1208,6 +1208,17 @@
       "path": "math/0037-taylor-expansions-and-local-quadratic-models",
       "first_solved_at": "2026-10-20T18:11:53.857Z",
       "last_pushed_at": "2026-10-20T18:11:53.857Z"
+    },
+    "math:25": {
+      "kind": "math",
+      "id": "25",
+      "title": "KL Divergence",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/25",
+      "path": "math/0025-kl-divergence",
+      "first_solved_at": "2026-10-20T18:14:18.503Z",
+      "last_pushed_at": "2026-10-20T18:14:18.503Z"
     }
   }
 }

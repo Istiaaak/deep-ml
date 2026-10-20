@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**96** solved · 72 problems · 4 labs · 20 math
+**97** solved · 72 problems · 4 labs · 21 math
 
 ![Coverage](./coverage.svg)
 
@@ -117,6 +117,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Training Error, Test Error and the Bayes Rate](https://www.deep-ml.com/math-problems/104) | medium | 2026-09-17 | [solution](math/0104-training-error-test-error-and-the-bayes-rate) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-09-03 | [solution](math/0008-vector-norms-and-linear-independence) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-09-18 | [solution](math/0016-eigendecomposition-and-svd) |
+| [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-10-20 | [solution](math/0025-kl-divergence) |
 | [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-10-20 | [solution](math/0015-matrix-decompositions-lu-and-qr) |
 
 ---
