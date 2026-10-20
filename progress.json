@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:14:23.513Z",
+  "generated_at": "2026-10-20T19:44:01.420Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1219,6 +1219,19 @@
       "path": "math/0025-kl-divergence",
       "first_solved_at": "2026-10-20T18:14:18.503Z",
       "last_pushed_at": "2026-10-20T18:14:18.503Z"
+    },
+    "problem:393": {
+      "kind": "problem",
+      "id": "393",
+      "title": "Implement Variational Autoencoder (VAE) Loss (ELBO)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/393",
+      "path": "problems/0393-implement-variational-autoencoder-vae-loss-elbo",
+      "first_solved_at": "2026-10-20T19:43:56.367Z",
+      "last_pushed_at": "2026-10-20T19:43:56.367Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }

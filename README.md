@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**97** solved · 72 problems · 4 labs · 21 math
+**98** solved · 73 problems · 4 labs · 21 math
 
 ![Coverage](./coverage.svg)
 
@@ -70,6 +70,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-09-20 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-09-18 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Implement RBF (Gaussian) Kernel Function](https://www.deep-ml.com/problems/280) | medium | 2026-09-25 | [solution](problems/0280-implement-rbf-gaussian-kernel-function) |
+| [Implement Variational Autoencoder (VAE) Loss (ELBO)](https://www.deep-ml.com/problems/393) | medium | 2026-10-20 | [solution](problems/0393-implement-variational-autoencoder-vae-loss-elbo) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-09-19 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Maximum A Posteriori (MAP) Estimation for Bernoulli Parameter](https://www.deep-ml.com/problems/338) | medium | 2026-09-20 | [solution](problems/0338-maximum-a-posteriori-map-estimation-for-bernoulli-parameter) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-09-20 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
