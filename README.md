@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**82** solved · 62 problems · 3 labs · 17 math
+**83** solved · 62 problems · 4 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -79,6 +79,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-10-20 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
 | [Train a Linear Regression Model](https://www.deep-ml.com/labs/18) | easy | 2026-09-17 | [solution](labs/0018-train-a-linear-regression-model) |
 | [Fix Overfitting with Regularization (NumPy)](https://www.deep-ml.com/labs/21) | medium | 2026-09-25 | [solution](labs/0021-fix-overfitting-with-regularization-numpy) |
 | [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-10-20 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |

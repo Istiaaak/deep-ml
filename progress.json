@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T12:14:51.599Z",
+  "generated_at": "2026-10-20T12:52:31.136Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1032,6 +1032,19 @@
       "last_pushed_at": "2026-10-20T12:14:46.888Z",
       "language": "python",
       "lines": 61
+    },
+    "lab:13": {
+      "kind": "lab",
+      "id": "13",
+      "title": "PyTorch: Build a Complete Training Loop",
+      "difficulty": "easy",
+      "category": "PyTorch Fundamentals",
+      "url": "https://www.deep-ml.com/labs/13",
+      "path": "labs/0013-pytorch-build-a-complete-training-loop",
+      "first_solved_at": "2026-10-20T12:52:26.372Z",
+      "last_pushed_at": "2026-10-20T12:52:26.372Z",
+      "language": "python",
+      "lines": 89
     }
   }
 }
