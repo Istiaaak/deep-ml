@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**77** solved · 58 problems · 2 labs · 17 math
+**78** solved · 59 problems · 2 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -61,6 +61,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-09-19 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Maximum A Posteriori (MAP) Estimation for Bernoulli Parameter](https://www.deep-ml.com/problems/338) | medium | 2026-09-20 | [solution](problems/0338-maximum-a-posteriori-map-estimation-for-bernoulli-parameter) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-09-20 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
+| [One Training Step](https://www.deep-ml.com/problems/1219) | medium | 2026-10-20 | [solution](problems/1219-one-training-step) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-09-29 | [solution](problems/0801-polynomial-regression-fit) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-09-24 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-09-24 | [solution](problems/0353-reconstruction-error-from-pca) |
